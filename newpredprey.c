@@ -4,6 +4,8 @@
 #include <math.h>
 #include <time.h>
 /* PREDATOR/PREY
+Predator Prey Simulatie in C door Hidde Hensel
+
 -Predator en/of prey moet je mee kunnen geven aan struct cell
 -Predator en prey hebben beide 1 variabele energie
 -Als predator naar lege cell gaat -energie
